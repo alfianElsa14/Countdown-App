@@ -1,0 +1,21 @@
+@media (max-width: 425px) {
+    body {
+        height: 1385px;
+        width: 710px;
+        background-size: auto;
+    }
+
+    #countdown {
+        margin-top: 300px;
+
+        h3 {
+            font-size: 50px;
+        }
+
+        footer {
+            .footer-icon {
+                width: 100%;
+            }
+        }
+    }
+}
